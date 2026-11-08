@@ -16,3 +16,4 @@
 - 使用瀏覽器 Web Speech API 語音辨識（建議電腦版 Chrome／Edge），不支援時可改打字。
 - 估計 Band 為練習參考值，非官方評分；每場可複製 AI 批改指令到 ChatGPT／Claude。
 - 進度存在瀏覽器 localStorage。
+- 可選：右上角「🤖 AI」輸入自己的 OpenAI API key（只存在該瀏覽器），每場 Part 1/2/3 結束自動以錄音轉寫＋AI 考官批改。
